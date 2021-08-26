@@ -1,11 +1,11 @@
 h1 {
-    text-underline-position: below;
+    text-decoration: underline
 }
 
-p {
-    font-weight: bold;
+#copyright {
+    font-size: 65%;
 }
 
-.copyright {
-    text-size-adjust: small;
+.bold {
+    font-weight: bolder;
 }
