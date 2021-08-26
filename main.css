@@ -1,0 +1,11 @@
+h1 {
+    text-underline-position: below;
+}
+
+p {
+    font-weight: bold;
+}
+
+.copyright {
+    text-size-adjust: small;
+}
