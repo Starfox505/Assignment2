@@ -1,1 +1,1 @@
-
+This folder contains the Assignment 2 project that requires me to make a page that explains what I hope to learn from this course.
